@@ -1,1 +1,1 @@
-# ds-algo-practice
+# Data Structure and Algorithms Practice 
